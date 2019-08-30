@@ -14,6 +14,7 @@ public class Main {
 
             // get the page title
             String title = doc.title();
+
             System.out.println("title: " + title);
 
             // get all links in page
